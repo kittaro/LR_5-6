@@ -1,4 +1,3 @@
-﻿program z_13;
 var
   rawr: array[1..20] of int64;
   i, min, max:int64;
