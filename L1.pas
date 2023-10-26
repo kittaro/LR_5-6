@@ -1,4 +1,3 @@
-﻿Program z_1;
 const Sz = 20;
 var 
   a: array [1..Sz] of integer;
